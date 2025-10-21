@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default" # Currently available options are "default", "air"
-title                    : "Data Happenings - A sociologist's notebook on the performance, production, and politics of quantification and social inequalities"
+title                    : "Data Happenings \n A sociologist's notebook on the performance, production, and politics of quantification and social inequalities"
 title_separator          : "-"
 name                     : &name "Lucas Page Pereira"
 description              : &description "Lucas's academic portfolio"   # Update this with a general description of your site, this is the default if not overridden by a page
@@ -23,10 +23,10 @@ repository               : "lucaspagepereira/lucaspagepereira.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "https://github.com/lucaspagepereira/lucaspagepereira.github.io/blob/master/Lucas_2025.jpeg"
   name             : "Lucas Page Pereira"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  bio              : "Sociologist, partner to an incredible woman, father of two energetic boys"
   location         : "France"
   employer         : "École Normale Supérieure Paris-Saclay"
   uri              : "https://ens-paris-saclay.fr/"# URL
