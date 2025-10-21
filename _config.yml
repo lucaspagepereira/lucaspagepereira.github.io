@@ -28,8 +28,7 @@ author:
   pronouns         : "he/him"# example: "she/her"  
   bio              : "Postdoctoral researcher in sociology <BR> Sociology of quantification, Social inequalities, Culture & Quantitative Methods <BR> Partner to an incredible woman, father of two charming boys"
   location         : "France"
-  employer         :  <a href="https://ens-paris-saclay.fr">ENS Paris-Saclay</a> 
-  uri              : "https://ens-paris-saclay.fr/"# URL
+  employer         : " "<a href="https://ens-paris-saclay.fr">ENS Paris-Saclay</a>
   email            : "lucas.page_pereira@ens-paris-saclay.fr" 
 
   # Academic websites
@@ -51,8 +50,6 @@ author:
  
 # Publication Category - The following the list of publication categories and their headings
 publication_category:
-  books:
-    title: 'Books'
   manuscripts:
     title: 'Journal Articles'    
   conferences:
