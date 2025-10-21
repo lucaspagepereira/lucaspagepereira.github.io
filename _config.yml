@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default" # Currently available options are "default", "air"
-title                    : "Data Happenings <BR> <i>A sociologist's notebook on the performance, production, and politics of quantification and social inequalities</i>"
+title                    : "Lucas Page Pereira"
 title_separator          : "-"
 name                     : &name "Lucas Page Pereira"
 description              : &description "Lucas's personal website"   # Update this with a general description of your site, this is the default if not overridden by a page
@@ -28,7 +28,7 @@ author:
   pronouns         : "he/him"# example: "she/her"  
   bio              : "Postdoctoral researcher in sociology <BR> Sociology of quantification, Social inequalities, Culture & Quantitative Methods <BR> Partner to an incredible woman, father of two charming boys"
   location         : "France"
-  employer         : "ENS Paris-Saclay"
+  employer         :  <a href="https://ens-paris-saclay.fr">ENS Paris-Saclay</a> 
   uri              : "https://ens-paris-saclay.fr/"# URL
   email            : "lucas.page_pereira@ens-paris-saclay.fr" 
 
