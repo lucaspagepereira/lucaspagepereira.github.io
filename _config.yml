@@ -23,7 +23,7 @@ repository               : "lucaspagepereira/lucaspagepereira.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "https://github.com/lucaspagepereira/lucaspagepereira.github.io/blob/master/Lucas_2025.jpeg"
+  avatar           : "Lucas_2025.jpeg"
   name             : "Lucas Page Pereira"
   pronouns         : # example: "she/her"  
   bio              : "Sociologist, partner to an incredible woman, father of two energetic boys"
