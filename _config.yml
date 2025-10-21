@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default" # Currently available options are "default", "air"
-title                    : "Data Happenings <BR> <font size="5"><i>A sociologist's notebook on the performance, production, and politics of quantification and social inequalities</i></font>"
+title                    : "Data Happenings <BR> <i>A sociologist's notebook on the performance, production, and politics of quantification and social inequalities</i>"
 title_separator          : "-"
 name                     : &name "Lucas Page Pereira"
 description              : &description "Lucas's personal website"   # Update this with a general description of your site, this is the default if not overridden by a page
