@@ -9,10 +9,10 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default" # Currently available options are "default", "air"
-title                    : "Data Happenings <BR> <p style="font-size: 12px;"><i>A sociologist's notebook on the performance, production, and politics of quantification and social inequalities<\i><\p>"
+title                    : "Data Happenings <BR> <font size="5"><i>A sociologist's notebook on the performance, production, and politics of quantification and social inequalities</i></font>"
 title_separator          : "-"
 name                     : &name "Lucas Page Pereira"
-description              : &description "Lucas's academic portfolio"   # Update this with a general description of your site, this is the default if not overridden by a page
+description              : &description "Lucas's personal website"   # Update this with a general description of your site, this is the default if not overridden by a page
 url                      : https://lucaspagepereira.github.io # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
                                                            # or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -47,7 +47,7 @@ author:
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
   # Social media
-  instagram        : "https://www.instagram.com/lucaspagepereira/"# Username
+  instagram        : "lucaspagepereira/"# Username
  
 # Publication Category - The following the list of publication categories and their headings
 publication_category:
