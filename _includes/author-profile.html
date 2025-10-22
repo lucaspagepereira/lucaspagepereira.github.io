@@ -71,6 +71,9 @@
       {% if author.inspire-hep %}
         <li><a href="{{ author.inspire-hep }}"><i class="ai ai-inspire ai-fw icon-pad-right"></i>INSPIRE-HEP</a></li>
       {% endif %}
+      {% if author.lattes %}
+        <li class="author.lattes"><img src="{{ '/images/lattes.png' | prepend: base_path }}" alt="Lattes" class="social-icon-image"/>{{ author.lattes }}</li>
+      {% endif %}    
 
       <!-- Font Awesome icons / Repositories and software development -->
       {% if author.bitbucket %}
