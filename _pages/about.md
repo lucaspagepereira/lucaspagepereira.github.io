@@ -13,3 +13,30 @@ A data-driven personal website
 
 Getting started
 ======
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+End
