@@ -72,7 +72,6 @@
         <li><a href="{{ author.inspire-hep }}"><i class="ai ai-inspire ai-fw icon-pad-right"></i>INSPIRE-HEP</a></li>
       {% endif %}
       {% if author.lattes %}
-      <li><a href="{{ author.uri }}"><i class="fas fa-fw fa-link icon-pad-right" aria-hidden="true"></i>{{ site.data.ui-text[site.locale].website_label | default: "Website" }}</a></li>
       <li class="author.lattes"><a href="{{ author.lattes }}"><img src="{{ '/images/Lattes.png' | prepend: base_path }}" alt="Lattes" class="social-icon-image"/>{{ site.data.ui-text[site.locale].website_label | default: "Lattes" }}</li>
       {% endif %}    
 
