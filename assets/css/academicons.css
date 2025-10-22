@@ -462,8 +462,8 @@
   content: "\e932";
 }
 .author__urls .social-icon-image {
-  width: 4px;
-  height: 4px;
+  width: 8px;
+  height: 8px;
   object-fit: contain;
   margin-right: 2px;
   vertical-align: text-bottom;
