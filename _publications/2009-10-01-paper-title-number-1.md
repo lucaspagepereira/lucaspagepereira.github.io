@@ -1,14 +1,10 @@
 ---
-title: "Paper Title Number 1"
+title: "Does Culture Improve Affective Subjective Well-Being in Everyday Life? An Experimental Sampling Approach"
 collection: publications
-category: manuscripts
-permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2009-10-01
-venue: 'Journal 1'
-slidesurl: 'https://academicpages.github.io/files/slides1.pdf'
-paperurl: 'https://academicpages.github.io/files/paper1.pdf'
-bibtexurl: 'https://academicpages.github.io/files/bibtex1.bib'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+category: article
+permalink: https://doi.org/10.1016/j.poetic.2024.101948
+excerpt: 'This research note studies how cultural participation impacts affective well-being in everyday life by taking a novel methodological approach via Experience Sampling Methodology (ESM). The potential for culture to improve the well-being of citizens has been a long-running subject of study. Through participation in cultural activities, individuals would gain experiences that foster feelings of liberation, engagement and confidence which are translated into positive emotions. However, existing studies have limitations, such as lacking the possibility to establish causal relationships or being limited to laboratory settings and specific cases. To increase our understanding of how cultural participation affects affective well-being, we use ESM. This is a diary survey type which allows researchers to examine what people do, feel, and think during their daily life. More than 270 respondents filled out up to 28 mini-questionnaires during a week. This created a semi-experimental design in which feelings can be compared between moments following participation and no participation. The results show significant positive impact of participation on well-being, controlled for where individuals are and with whom, as well as social background characteristics.'
+date: 2024-12-01
+venue: 'Poetics'
 ---
 The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
