@@ -31,7 +31,7 @@
         <li><a href="{{ author.employer }}"><i class="fas fa-fw fa-building-columns icon-pad-right" aria-hidden="true"></i>{{ site.data.ui-text[site.locale].website_label | default: "ENS Paris-Saclay" }}</a></li>
       {% endif %}
       {% if author.uri %}
-        <li><a href="{{ author.uri }}"><i class="fas fa-fw fa-link icon-pad-right" aria-hidden="true"></i>{{ site.data.ui-text[site.locale].website_label | default: "Website" }}</a></li>
+        <li><a href="{{ author.uri }}"><i class="fas fa-fw fa-link icon-pad-right" aria-hidden="true"></i>{{ site.data.ui-text[site.locale].website_label | default: "ENS Paris-Saclay" }}</a></li>
       {% endif %}
       {% if author.laboratory %}
         <li class="author.lab"><img src="{{ '/images/laboratory.png' | prepend: base_path }}" alt="Laboratory" class="social-icon-image"/>{{ author.laboratory }}</li>
