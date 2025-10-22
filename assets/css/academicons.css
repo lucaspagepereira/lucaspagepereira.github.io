@@ -25,6 +25,7 @@
   font-variant: normal;
   text-rendering: auto;
   line-height: 1;
+  white-space: nowrap;
 }
 .ai-academia:before {
   content: "\e9af";
@@ -468,6 +469,7 @@
   margin-right: 2px;
   vertical-align: text-bottom;
   display: inline-block;
+  white-space: nowrap;
 }
 /*  Duplication of the FontAwesome style classes using 'ai' in place of 'fa'. */
 .ai-lg {
