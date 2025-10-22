@@ -23,70 +23,67 @@ EDUCATION
 POSITIONS
 ======
 **CURRENT POSITION**
-*Since 02/2024*	  PosDoc in the Training, Learning and Innovating through Research (FAIR) project 
-                    Role: I coordinate a study on the quantification of the research-teaching link in higher education and to develop a map of teaching practices at Université Paris–Saclay
-                    Laboratory IDHE.S - UMR 8533  
-                    École Normale Supérieure Paris-Saclay
-*Since 09/2021*	   Lecturer in quantitative methods (Textual Analysis, LLM, Multivariate statistics)
-                    ENS Paris-Saclay.  	
+1. *Since 02/2024*	 PosDoc in the Training, Learning and Innovating through Research (FAIR) project 
+                    		Role: I coordinate a study on the quantification of the research-teaching link in higher education and to develop a map of teaching practices at Université Paris–Saclay
+                    		Laboratory IDHE.S - UMR 8533  
+   							École Normale Supérieure Paris-Saclay
+2. *Since 09/2021*	 Lecturer in quantitative methods (Textual Analysis, LLM, Multivariate statistics)
+                    		ENS Paris-Saclay.  	
 
 **PREVIOUS POSITIONS**
-*2021-2023*      	PosDoc in the H2020 INVENT project | ENS Paris-Saclay.  
-                    Role: I co-led with Frédéric Lebaron the French team for the project, being in charge of team, budget and deliverables management. I was also co-responsible for several research axes at                       the project-wide level
-*2020-2021*      	Researcher in the H2020 INVENT project | ENS Paris-Saclay.  
-*2022-2023*      	Lecturer in sociology | Université de Bretagne-Sud – Vannes (24h).
-*2015-2022*      	Lecturer in quantitative methods | UVSQ (114h).
-*2017-2018*	      Temporary Lecturer (A.T.E.R.) in sociology | UVSQ (192h TD)
-*2011-2015*	      Assistant professor in sociology | Faculdades de Campinas (Brazil).  (1332h TD)
+1. *2021-2023*      PosDoc in the H2020 INVENT project | ENS Paris-Saclay.  
+                    	Role: I co-led with Frédéric Lebaron the French team for the project, being in charge of team, budget and deliverables management. I was also co-responsible for several research axes at the project-wide level
+2. *2020-2021*      Researcher in the H2020 INVENT project | ENS Paris-Saclay.  
+3. *2022-2023*      Lecturer in sociology | Université de Bretagne-Sud – Vannes (24h).
+4. *2015-2022*      Lecturer in quantitative methods | UVSQ (114h).
+5. *2017-2018*	    Temporary Lecturer (A.T.E.R.) in sociology | UVSQ (192h TD)
+6. *2011-2015*	    Assistant professor in sociology | Faculdades de Campinas (Brazil).  (1332h TD)
 
 **AWARDS**
 ======
-*2022*	Alain Desrosières prize in sociology of quantification, French Statistical Sociey (SFdS)  
-*2022*	Best European PhD dissertation on Brazilian studies, Association of Brazilianists in Europe (ABRE) 
-*2022*	Best PhD dissertation 2020-2021, Université Paris-Saclay  
-*2014*	Nominated for best MS’ dissertation (mestrado) in sociology, ANPOCS.
+1. *2022*	Alain Desrosières prize in sociology of quantification, French Statistical Sociey (SFdS)  
+2. *2022*	Best European PhD dissertation on Brazilian studies, Association of Brazilianists in Europe (ABRE) 
+3. *2022*	Best PhD dissertation 2020-2021, Université Paris-Saclay  
+4. *2014*	Nominated for best MS’ dissertation (mestrado) in sociology, ANPOCS.
 
 FELLOWSHIPS
 ======
-*2025-2029* 	CAPES-COFECUB project, "Social Classes in Multiple Scales"
-*2020-2023*  	H2020 INVENT - European Inventory of Societal Values of Culture as Basis for Inclusive Cultural Policies (Grant n° 870691)
-*2019-2024*  	CAPES-COFECUB project, "The globalization of Brazilian and French sociology: agents, institutions and themes"
-*2011-2013*  	Research Fellow from the Brazilian National Council for Scientific and Technological Development (CNPQ)
+1. *2025-2029* 	CAPES-COFECUB project, "Social Classes in Multiple Scales"
+2. *2020-2023*  H2020 INVENT - European Inventory of Societal Values of Culture as Basis for Inclusive Cultural Policies (Grant n° 870691)
+3. *2019-2024*  CAPES-COFECUB project, "The globalization of Brazilian and French sociology: agents, institutions and themes"
+4. *2011-2013*  Research Fellow from the Brazilian National Council for Scientific and Technological Development (CNPQ)
 
 Visiting researcher
 ======
-*2024*	University of Brasília, Capes-Cofecub
-*2024*	University of Campinas, Capes Print
-*2023*	University of Campinas, Capes Print
-*2023*	University of Paraíba, Capes Print
-*2022* 	University of Uppsala
+1. *2024*	University of Brasília, Capes-Cofecub
+2. *2024*	University of Campinas, Capes Print
+3. *2023*	University of Campinas, Capes Print
+4. *2023*	University of Paraíba, Capes Print
+5. *2022* 	University of Uppsala
 
 SUPERVISION OF UNDERGRADUATE STUDENTS
 ======
-*2023*	3 Masters Students – ENS Paris-Saclay
-*2022*	3 Master Students – ENS Paris-Saclay
-*2014*	2 Bachelor’s Students – Faculdades de Campinas (Brazil)
-*2013*	3 Bachelor’s Students – Faculdades de Campinas (Brazil)
+1. *2023*	3 Masters Students – ENS Paris-Saclay
+2. *2022*	3 Master Students – ENS Paris-Saclay
+3. *2014*	2 Bachelor’s Students – Faculdades de Campinas (Brazil)
+4. *2013*	3 Bachelor’s Students – Faculdades de Campinas (Brazil)
 
 ORGANIZATION OF SCIENTIFIC MEETINGS (SELECTION)
 ======
-*2025* 	Social classes under globalization: social, symbolic, and geographic spaces in a world in transition
-	      ENS Paris-Saclay, October 16th & 17th
-*2025* 	Social Class: A Transatlantic Comparative Perspective
-	      London School of Economics, October 28th 
-*2023*  Transatlantic perspectives on Culture and Distinction
-        ENS Paris-Saclay, February 22th
+1. *2025* 	Social classes under globalization: social, symbolic, and geographic spaces in a world in transition. ENS Paris-Saclay, October 16th & 17th
+2. *2025* 	Social Class: A Transatlantic Comparative Perspective. London School of Economics, October 28th 
+3. *2023*  Transatlantic perspectives on Culture and Distinction. ENS Paris-Saclay, February 22th
 
 OTHER CONTRIBUTIONS TO THE RESEARCH COMMUNITY  (SELECTION)
 ======
-*2025, 2023* 	Member of the jury for the Best Dissertation Prize, ABRE
-*2022*      	First Opponent at the 90% thesis seminar for Pablo Lillo Cea, The World-Class Ordination: A Field Theory Approach to the Study of Global University Rankings, Uppsala University
-*Since 2023*	Board member of RT20 Methods of the French Sociological Association (AFS).
-*Since 2023*	Member of the Steering Committee for the INSEE's Social Classification (PCS)
-*Since 2024*	Reviewer: Sociologos, Statistiques et Société, Brésil(s), Sociedade & Estado, Tempo Social
-*2018*	      Expert assignment for Université Paris–Saclay: analysis of PhD graduates’ employment outcomes.
-*201*	        Expert assignment for the project Analysis of Time Series and Historical Socio-Economic Data: New Methodological Perspectives (ASTDSEH): construction and analysis of textual databases.
-*2016*	      Expert assignment for the project Georges Dumas: A French Psychologist and Cultural Ambassador to Brazil (FAPESP no. 2015/07599-0): construction and analysis of a prosopographic database based                 on archival collections.
+1. *2025, 2023* 	Member of the jury for the Best Dissertation Prize, ABRE
+2. *2022*      		First Opponent at the 90% thesis seminar for Pablo Lillo Cea, The World-Class Ordination: A Field Theory Approach to the Study of Global University Rankings, Uppsala University
+3. *Since 2023*		Board member of RT20 Methods of the French Sociological Association (AFS).
+4. *Since 2023*		Member of the Steering Committee for the INSEE's Social Classification (PCS)
+5. *Since 2024*		Reviewer: Sociologos, Statistiques et Société, Brésil(s), Sociedade & Estado, Tempo Social
+6. *2018*	      	Expert assignment for Université Paris–Saclay: analysis of PhD graduates’ employment outcomes.
+7. *201*	        Expert assignment for the project Analysis of Time Series and Historical Socio-Economic Data: New Methodological Perspectives (ASTDSEH): construction and analysis of textual databases.
+8. *2016*	      	Expert assignment for the project Georges Dumas: A French Psychologist and Cultural Ambassador to Brazil (FAPESP no. 2015/07599-0): construction and analysis of a prosopographic database based on archival collections.
 
 PUBLICATIONS (SELECTION)
 ======
@@ -117,20 +114,20 @@ PUBLICATIONS (SELECTION)
 
 CONFERENCES (SELECTION)
 ======
-*Oct.2025*    Cultural boundaries and cultural participation in contemporary France. "Social classes under globalization: social, symbolic, and geographic spaces in a world in transition", ENS Paris-Saclay,                 16 & 17 October 2025
-*Jul.2025*	  A Portuguese Reading of Bourdieu: Remarks on Bourdieu e seus livros. University of Porto.
-*Dec.2024*	  Social Anamorphosis: Social Classes and Social Inequalities in Brazil in the 2000s. Data Geometric Analysis Lecture Series, ENS Paris–Saclay.
-*Oct.2024*	  Class Nomenclatures and the Evolution of Measures of Social Inequality in Brazil in the 2000s. GT09 – Social Studies of Quantification, ANPOCS.
-*Nov.2023*	  Socio-Occupational Categories in France and Brazil. “Quantitativisme réflexif” Seminar, IDHE.S, ENS Paris–Saclay.
-*Oct.2023*	  Culture and Cultural Hierarchies in France: Methodological and Conceptual Challenges. 47th ANPOCS Congress, Campinas, Brazil.
-*Sep.2023*	  Social Anamorphosis: The Evolution of Social Inequalities in Brazil in the 2000s. CARME Conference, University of Bonn.
-*Sep.2023*	  Culture and Cultural Hierarchies in France: Methodological and Conceptual Challenges. Special Sociology of Education Seminar, Uppsala University, Sweden.
-*Sep.2023*	  On the Trail of Texts: Some Connections between GDA and LDA Models. HERO Research Seminar, Uppsala University, Sweden.
-*Jul.2023* 	  The Circulation and Articulation of Methods via a Digital Device. TR 20 – Methods, 10th Congress of the French Sociological Association (AFS), Lyon, 4–7 July 2023.
-*June 2023* 	On the Trail of the Everyday Cultural Conversation: Benefits and Limitations of the Experience Sampling Method (ESM) in Sociology. XX ISA World Congress, Melbourne, 25 June–1 July 2023. (Co-                    authors Marc Verboord, Bertille Decoupigny, Eva Pina Myrczik, and Neta Yodovich)
-*Apr.2023** 	Advocating for Culture on Social Media. INVENT Conference, Barcelona, 27–28 April 2023.
-*Nov.2022*	  Social Anamorphosis: Social Classes and Social Inequalities in Brazil in the 2000s. Special Sociology of Education Seminar, Uppsala University, 16 November 2022.
-*Nov.2022*	  Do Social Inequalities Influence Different Types of Cultural Practices in the Same Way? Institute of Advanced Studies, Loughborough University, 17 November 2022. (co-authors Predrag Cvetičanin,                 Frédéric Lebaron, Inga Tomić, Željka Zdravković).
+1. *Oct.2025*    Cultural boundaries and cultural participation in contemporary France. "Social classes under globalization: social, symbolic, and geographic spaces in a world in transition", ENS Paris-Saclay, 16 & 17 October 2025
+2. *Jul.2025*	  A Portuguese Reading of Bourdieu: Remarks on Bourdieu e seus livros. University of Porto.
+3. *Dec.2024*	  Social Anamorphosis: Social Classes and Social Inequalities in Brazil in the 2000s. Data Geometric Analysis Lecture Series, ENS Paris–Saclay.
+4. *Oct.2024*	  Class Nomenclatures and the Evolution of Measures of Social Inequality in Brazil in the 2000s. GT09 – Social Studies of Quantification, ANPOCS.
+5. *Nov.2023*	  Socio-Occupational Categories in France and Brazil. “Quantitativisme réflexif” Seminar, IDHE.S, ENS Paris–Saclay.
+6. *Oct.2023*	  Culture and Cultural Hierarchies in France: Methodological and Conceptual Challenges. 47th ANPOCS Congress, Campinas, Brazil.
+7. *Sep.2023*	  Social Anamorphosis: The Evolution of Social Inequalities in Brazil in the 2000s. CARME Conference, University of Bonn.
+8. *Sep.2023*	  Culture and Cultural Hierarchies in France: Methodological and Conceptual Challenges. Special Sociology of Education Seminar, Uppsala University, Sweden.
+9. *Sep.2023*	  On the Trail of Texts: Some Connections between GDA and LDA Models. HERO Research Seminar, Uppsala University, Sweden.
+10. *Jul.2023* 	  The Circulation and Articulation of Methods via a Digital Device. TR 20 – Methods, 10th Congress of the French Sociological Association (AFS), Lyon, 4–7 July 2023.
+11. *June 2023* 	On the Trail of the Everyday Cultural Conversation: Benefits and Limitations of the Experience Sampling Method (ESM) in Sociology. XX ISA World Congress, Melbourne, 25 June–1 July 2023. 
+12. *Apr.2023** 	Advocating for Culture on Social Media. INVENT Conference, Barcelona, 27–28 April 2023.
+13. *Nov.2022*	  Social Anamorphosis: Social Classes and Social Inequalities in Brazil in the 2000s. Special Sociology of Education Seminar, Uppsala University, 16 November 2022.
+14. *Nov.2022*	  Do Social Inequalities Influence Different Types of Cultural Practices in the Same Way? Institute of Advanced Studies, Loughborough University, 17 November 2022.
 
 
 
