@@ -125,7 +125,7 @@ CONFERENCES (SELECTION)
 9. *Sep.2023*	  On the Trail of Texts: Some Connections between GDA and LDA Models. HERO Research Seminar, Uppsala University, Sweden.
 10. *Jul.2023* 	  The Circulation and Articulation of Methods via a Digital Device. TR 20 – Methods, 10th Congress of the French Sociological Association (AFS), Lyon, 4–7 July 2023.
 11. *June 2023* 	On the Trail of the Everyday Cultural Conversation: Benefits and Limitations of the Experience Sampling Method (ESM) in Sociology. XX ISA World Congress, Melbourne, 25 June–1 July 2023. 
-12. *Apr.2023** 	Advocating for Culture on Social Media. INVENT Conference, Barcelona, 27–28 April 2023.
+12. *Apr.2023* 	Advocating for Culture on Social Media. INVENT Conference, Barcelona, 27–28 April 2023.
 13. *Nov.2022*	  Social Anamorphosis: Social Classes and Social Inequalities in Brazil in the 2000s. Special Sociology of Education Seminar, Uppsala University, 16 November 2022.
 14. *Nov.2022*	  Do Social Inequalities Influence Different Types of Cultural Practices in the Same Way? Institute of Advanced Studies, Loughborough University, 17 November 2022.
 
