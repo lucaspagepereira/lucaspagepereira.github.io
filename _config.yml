@@ -29,7 +29,7 @@ author:
   bio              : "Postdoctoral researcher in sociology <BR> Sociology of quantification, Social inequalities, Culture & Quantitative Methods <BR> Partner to an incredible woman, father of two char[...]
   location         : "France"
   employer         : "ENS Paris-Saclay"
-  site             : "https://ens-paris-saclay.fr/"
+  uri             : "https://ens-paris-saclay.fr/"
   email            : "lucas.page_pereira@ens-paris-saclay.fr" 
 
   # Academic websites
@@ -51,6 +51,8 @@ author:
  
 # Publication Category - The following the list of publication categories and their headings
 publication_category:
+  books:
+    title: 'Books'
   manuscripts:
     title: 'Journal Articles'    
   conferences:
@@ -115,11 +117,12 @@ og_description           :  # Social media default site image description
 social:
   type                   : # Person or Organization (defaults to Person)
   name                   : # If the user or organization name differs from the site's name
-  links: [] # An array of links to social media profiles (explicitly empty)
+  links: # An array of links to social media profiles
+
 
 # Analytics
 analytics:
-  provider               : false # false (default), "google", "google-universal", "google-analytics-4", "custom"
+  provider               :  "false" # false (default), "google", "google-universal", "google-analytics-4", "custom"
   google:
     tracking_id          :
 
@@ -178,7 +181,7 @@ kramdown:
   auto_ids: true
   footnote_nr: 1
   entity_output: as_char
-  toc_levels: "1..6"
+  toc_levels: 1..6
   smart_quotes: lsquo,rsquo,ldquo,rdquo
   enable_coderay: false
 
@@ -245,7 +248,7 @@ defaults:
       layout: single
       author_profile: true
       share: true
-      comments: true
+      comment: true
   # _talks
   - scope:
       path: ""
