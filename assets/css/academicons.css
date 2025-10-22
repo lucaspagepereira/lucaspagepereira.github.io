@@ -20,7 +20,7 @@
   font-weight: 400;
   -moz-osx-font-smoothing: grayscale;
   -webkit-font-smoothing: antialiased;
-  display: inline-block;
+  display: inline; 
   font-style: normal;
   font-variant: normal;
   text-rendering: auto;
@@ -468,7 +468,7 @@
   object-fit: contain;
   margin-right: 2px;
   vertical-align: text-bottom;
-  display: inline-block;
+  display: inline;
   white-space: nowrap;
     flex-wrap: nowrap;
 }
