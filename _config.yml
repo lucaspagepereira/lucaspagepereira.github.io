@@ -28,7 +28,7 @@ author:
   pronouns         : "he/him"# example: "she/her"  
   bio              : "Postdoctoral researcher in sociology <BR> Sociology of quantification, Social inequalities, Culture & Quantitative Methods <BR> Partner to an incredible woman, father of two char[...]
   location         : "France"
-  employer         : '<a href="https://ens-paris-saclay.fr">ENS Paris-Saclay</a>'
+  employer         : <a href="https://ens-paris-saclay.fr">ENS Paris-Saclay</a>
   email            : "lucas.page_pereira@ens-paris-saclay.fr" 
 
   # Academic websites
