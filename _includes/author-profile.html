@@ -34,7 +34,12 @@
         <li><a href="{{ author.uri }}"><i class="fas fa-fw fa-link icon-pad-right" aria-hidden="true"></i>{{ site.data.ui-text[site.locale].website_label | default: "ENS Paris-Saclay" }}</a></li>
       {% endif %}
       {% if author.laboratory %}
-        <li class="author.lab" style="white-space: nowrap;><img src="{{ '/images/laboratory.png' | prepend: base_path }}" alt="Laboratory" class="social-icon-image"/><a hreh = "https://www.idhes.cnrs.fr/">IDHE.S</a> | <a href = "https://www.printemps.uvsq.fr/" > PRINTEMPS </a> | <a href = "https://irl2034.fr/"> IRL 2034</a></li>
+      <li class="author lab">
+      <img src="{{ '/images/laboratory.png' | prepend: base_path }}" alt="Laboratory" class="social-icon-image">
+      <a href="https://www.idhes.cnrs.fr/" target="_blank" rel="noopener">IDHE.S |</a> ·
+      <a href="https://www.printemps.uvsq.fr/" target="_blank" rel="noopener">PRINTEMPS |</a> ·
+      <a href="https://irl2034.fr/" target="_blank" rel="noopener">IRL 2034</a>
+      </li>        
       {% endif %}      
       {% if author.email %}
         <li><a href="mailto:{{ author.email }}"><i class="fas fa-fw fa-envelope icon-pad-right" aria-hidden="true"></i>{{ site.data.ui-text[site.locale].email_label | default: "Email" }}</a></li>
