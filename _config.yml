@@ -26,9 +26,9 @@ author:
   avatar           : "Lucas_2025.jpeg"
   name             : "Lucas Page Pereira"
   pronouns         : "he/him"# example: "she/her"  
-  bio              : "Postdoctoral researcher in sociology <BR> Sociology of quantification, Social inequalities, Culture & Quantitative Methods <BR> Partner to an incredible woman, father of two charming boys"
+  bio              : "Postdoctoral researcher in sociology <BR> Sociology of quantification, Social inequalities, Culture & Quantitative Methods <BR> Partner to an incredible woman, father of two char[...]
   location         : "France"
-  employer         : " "<a href="https://ens-paris-saclay.fr">ENS Paris-Saclay</a>
+  employer         : '<a href="https://ens-paris-saclay.fr">ENS Paris-Saclay</a>'
   email            : "lucas.page_pereira@ens-paris-saclay.fr" 
 
   # Academic websites
@@ -46,7 +46,7 @@ author:
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
   # Social media
-  instagram        : "lucaspagepereira/"# Username
+  instagram        : "lucaspagepereira/" # Username
  
 # Publication Category - The following the list of publication categories and their headings
 publication_category:
@@ -114,12 +114,11 @@ og_description           :  # Social media default site image description
 social:
   type                   : # Person or Organization (defaults to Person)
   name                   : # If the user or organization name differs from the site's name
-  links: # An array of links to social media profiles
-
+  links: [] # An array of links to social media profiles (explicitly empty)
 
 # Analytics
 analytics:
-  provider               :  "false" # false (default), "google", "google-universal", "google-analytics-4", "custom"
+  provider               : false # false (default), "google", "google-universal", "google-analytics-4", "custom"
   google:
     tracking_id          :
 
@@ -178,7 +177,7 @@ kramdown:
   auto_ids: true
   footnote_nr: 1
   entity_output: as_char
-  toc_levels: 1..6
+  toc_levels: "1..6"
   smart_quotes: lsquo,rsquo,ldquo,rdquo
   enable_coderay: false
 
@@ -245,7 +244,7 @@ defaults:
       layout: single
       author_profile: true
       share: true
-      comment: true
+      comments: true
   # _talks
   - scope:
       path: ""
