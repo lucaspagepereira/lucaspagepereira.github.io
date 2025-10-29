@@ -16,3 +16,21 @@ redirect_from:
   <area target="_top" alt="See Research Notebook" title="See Research Notebook" href="https://lucaspagepereira.github.io/portfolio/" coords="1006,1545,1589,1618" shape="rect">
 </map>
 
+<!-- Lib depuis un CDN -->
+<script src="/scripts/imageMapResizer.min.js"></script>
+
+<!-- Sécurité : si l’attribut onload ci-dessus était ignoré, on force aussi après le chargement complet -->
+<script>
+  window.addEventListener('load', function () {
+    if (typeof imageMapResize === 'function') imageMapResize();
+  });
+</script>
+
+<noscript>
+  <p>
+    <a href="https://lucaspagepereira.github.io/projects/">Projects</a> ·
+    <a href="https://lucaspagepereira.github.io/publications/">Publications</a> ·
+    <a href="https://lucaspagepereira.github.io/teaching/">Teaching</a> ·
+    <a href="https://lucaspagepereira.github.io/portfolio/">Research Notebook</a>
+  </p>
+</noscript>
