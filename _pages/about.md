@@ -6,7 +6,7 @@ redirect_from:
   - /about.html
 ---
 <p>
-<img src="/images/Conference.png" alt="About" usemap="#mapConf" style="width:100%" height:auto">
+<img src="/images/Conference.png" alt="About" usemap="#mapConf" style="width:100%; height:auto">
 
 <map name="mapConf">
   <!-- rectangle: left,top,right,bottom -->
