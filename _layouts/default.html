@@ -10,6 +10,14 @@ layout: compress
     {% include head.html %}
     {% include head/custom.html %}
   </head>
+<script src="/scripts/imageMapResizer.min.js"></script>
+<script>
+  // Ajuste toutes les maps de la page une fois l’image chargée
+  window.addEventListener('load', function () {
+    if (typeof imageMapResize === 'function') imageMapResize();
+  });
+</script>
+
   
   <body>
 
