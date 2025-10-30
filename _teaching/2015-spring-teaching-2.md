@@ -1,7 +1,7 @@
 ---
 title: "Geometric Data Analysis"
 collection: teaching
-type: "Workshop"
+type: "Workshop for graduate students"
 permalink: /teaching/2015-spring-teaching-1
 venue: "École Normale Supérieure Paris-Saclay"
 date: 2025-11-28
@@ -20,6 +20,7 @@ The goal of this workshop is to enable any PhD candidates, postdocs, or research
 PROGRAM
 ===
 Monday
+--
 10:00–12:00 – STATISTICAL LECTURE. Brigitte Le Roux: What is Geometric Data Analysis (GDA)? Basic Geometric Notions (cloud of points, mean point, variance, and standard deviation). Principal Axes of a Euclidean Cloud. 
 
 13:30-15h30 – WORK SESSION. Philippe Bonnet & Lucas Page Pereira: Check installation of SPAD, R and other computer components.
@@ -29,6 +30,7 @@ Monday
 17:30-18:30 – Discussion of participants' individual projects with lecturers. 
 
 Tuesday
+--
 10:00-12:00 – STATISTICAL LECTURE. Brigitte Le Roux: What is MCA (Multiple Correspondence Analysis)? 
 
 13:30-14:30 – MIXED SESSION. Brigitte Le Roux & Frédéric Lebaron: MCA interpretation: methods, challenges and strategies.
@@ -38,6 +40,7 @@ Tuesday
 16:30-18:00 – SOCIOLOGICAL LECTURE: Johs. Hjellbrekke (University of Bergen, Norway). 
 
 Wednesday
+--
 09:00-10:00 – WORK SESSION. Philippe Bonnet & Lucas Page Pereira: Running MCA and dressing graphs in SPAD, II
 
 10:00-12:00 – STATISTICAL LECTURE. Brigitte Le Roux: Specific MCA, Class-Specific analysis and Structured data analysis.
@@ -49,6 +52,7 @@ Wednesday
 17:30-18:30 - Discussion of participants' individual projects with lecturers. 
 
 Thursday
+--
 09:00–11:00 – STATISTICAL LECTURE. Brigitte Le Roux: Euclidean Clustering in GDA. 
 11:15-12:45 – WORK SESSION. Philippe Bonnet & Lucas Page Pereira: Clustering and dressing graphs in SPAD.
 
@@ -59,6 +63,7 @@ Thursday
 17:00-18:30 - Discussion of participants' individual projects with lecturers. 
 
 Friday
+--
 09:00–12:00 – STATISTICAL LECTURE. Brigitte Le Roux & Frédéric Lebaron: Combinatorial Inference applied to GDA using the example of the Space of European Central Bankers.
 
 13:30-15:00 – WORK SESSION. Philippe Bonnet & Lucas Page Pereira: Running Combinatorial Inference in SPAD. 
