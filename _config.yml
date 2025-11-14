@@ -257,6 +257,11 @@ defaults:
       layout: talk
       author_profile: true
       share: true
+  # dark mode
+  - scope:
+      path: ""
+    values:
+      dark_mode: false
 
 
 # Sass/SCSS
