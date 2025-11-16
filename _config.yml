@@ -9,6 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "air" # Currently available options are "default", "air"
+dark_mode                : false
 title                    : "Data happening"
 title_separator          : "-"
 name                     : "Lucas Page Pereira"  
