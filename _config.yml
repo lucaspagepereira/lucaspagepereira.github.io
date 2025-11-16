@@ -262,6 +262,7 @@ defaults:
       path: ""
     values:
       dark_mode: false
+      enable_darkmode: false
 
 
 # Sass/SCSS
