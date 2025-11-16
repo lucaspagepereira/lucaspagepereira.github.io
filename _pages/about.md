@@ -14,7 +14,7 @@ redirect_from:
 </h1>
 
 <h1 style="
-  font-family: 'Dear Script', sans-serif; 
+  font-family: 'Dear_Script', sans-serif; 
   font-size: 25px; 
            line-height: 1.1; 
            margin-top: 5px; 
