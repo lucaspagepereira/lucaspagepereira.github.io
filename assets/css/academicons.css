@@ -5,6 +5,13 @@
  *  Licenses - Font: SIL OFL 1.1, CSS: MIT License
  */
 @font-face {
+    font-family: 'PWScolarpaper';
+    src: url('../fonts/PWScolarpaper.ttf') format('ttf');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
     font-family: 'Academicons';
     font-style: normal;
     font-weight: 400;
