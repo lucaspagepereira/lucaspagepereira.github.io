@@ -6,7 +6,7 @@ redirect_from:
   - /about.html
 ---
 <h1 style="
-    font-family: 'Dear Script', sans-serif; 
+    font-family: 'Dear_Script', sans-serif; 
     font-size: 75px; 
     text-align: center;
 ">
