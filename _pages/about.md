@@ -9,7 +9,7 @@ redirect_from:
     font-family: 'Dear_Script', sans-serif; 
     font-size: 75px; 
     text-align: center;
-  line-height: 0.9; 
+  line-height: 0.8; 
 ">
     Data Happening
 </h1>
