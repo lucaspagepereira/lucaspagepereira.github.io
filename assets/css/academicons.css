@@ -5,8 +5,8 @@
  *  Licenses - Font: SIL OFL 1.1, CSS: MIT License
  */
 @font-face {
-    font-family: 'Dear Script';
-    src: url('../fonts/Dear Script.otf') format('truetype');
+    font-family: 'Dear_Script';
+    src: url('../fonts/Dear_Script.otf') format('opentype');
     font-weight: normal;
     font-style: normal;
 }
