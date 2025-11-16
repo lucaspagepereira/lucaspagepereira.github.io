@@ -6,7 +6,7 @@
  */
 @font-face {
     font-family: 'PWScolarpaper';
-    src: url('../fonts/PWScolarpaper.ttf') format('ttf');
+    src: url('../fonts/PWScolarpaper.ttf') format('truetype');
     font-weight: normal;
     font-style: normal;
 }
