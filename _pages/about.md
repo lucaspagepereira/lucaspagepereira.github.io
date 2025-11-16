@@ -6,14 +6,16 @@ redirect_from:
   - /about.html
 ---
 <h1 style="
-    font-family: 'PWScolarpaper', sans-serif; 
+    font-family: 'Dear Script', sans-serif; 
     font-size: 75px; 
     text-align: center;
 ">
     Data Happening
 </h1>
 
-<h1 style="font-size: 25px; 
+<h1 style="
+  font-family: 'Dear Script', sans-serif; 
+  font-size: 25px; 
            line-height: 1.1; 
            margin-top: 5px; 
            text-align: center;">
