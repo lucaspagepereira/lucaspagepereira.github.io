@@ -5,11 +5,14 @@ redirect_from:
   - /about/
   - /about.html
 ---
-<h1 style="font-family: 'PWScolarpaper', sans-serif; 
-           font-size: 75px; 
-           line-height: 0.8; 
-           margin-bottom: 0px; 
-           text-align: center;">
+<h1 style="
+    font-family: 'PWScolarpaper', sans-serif; 
+    font-size: 75px; 
+    text-align: center;
+    display: inline-block;
+    border-bottom: 5px solid red;
+    padding-bottom: 10px;
+">
     Data Happening
 </h1>
 
