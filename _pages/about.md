@@ -9,13 +9,14 @@ redirect_from:
     font-family: 'Dear_Script', sans-serif; 
     font-size: 75px; 
     text-align: center;
+  line-height: 0.9; 
 ">
     Data Happening
 </h1>
 
 <h1 style="
     font-size: 25px; 
-           line-height: 1.1; 
+           line-height: 1; 
            margin-top: 5px; 
            text-align: center;">
     <i>A notebook on quantification and social inequalities</i>
