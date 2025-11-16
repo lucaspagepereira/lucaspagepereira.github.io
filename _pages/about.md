@@ -9,9 +9,6 @@ redirect_from:
     font-family: 'PWScolarpaper', sans-serif; 
     font-size: 75px; 
     text-align: center;
-    display: inline-block;
-    border-bottom: 5px solid red;
-    padding-bottom: 10px;
 ">
     Data Happening
 </h1>
