@@ -9,7 +9,6 @@
 .sidebar {
   -webkit-transform: translate3d(0, 0 , 0);
           transform: translate3d(0, 0 , 0);
-   margin-right: 10px;
   @include clearfix();
   margin-bottom: 1em;
 
@@ -53,6 +52,7 @@
     font-family: $sans-serif;
     font-size: $type-size-6;
     line-height: 1.5;
+     
   }
 
   img {
@@ -63,6 +63,7 @@
 .sidebar__right {
   margin-bottom: 1em;
    margin-roght: 3em;
+   margin-right: 5em;
 
   @include breakpoint($large) {
     position: relative;
